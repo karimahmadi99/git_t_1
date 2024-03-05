@@ -11,3 +11,4 @@ class Amir:
 
 my = Amir('karim', 'ahmadi', 19, 'tehran')
 my.run()
+print("jfjfj")
