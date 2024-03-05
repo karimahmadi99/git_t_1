@@ -12,6 +12,10 @@ class Amir:
 my = Amir('karim', 'ahmadi', 19, 'tehran')
 my.run()
 
-print("hello")
-print("hello")
-print("hello")
+x = 10
+y = 0
+while True:
+    y += 1
+    print(y)
+    if y == x:
+        break
