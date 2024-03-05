@@ -8,3 +8,6 @@ class Amir:
     def run(self):
         log = self.fname + " " + self.lname + " " + str(self.age) + " " + self.city
         return log
+
+my = Amir('karim', 'ahmadi', 19, 'tehran')
+my.run()
