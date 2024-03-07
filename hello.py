@@ -23,7 +23,5 @@ while True:
         print("hello")
 
 
-print("hello")
-print("hello")
-print("hello")
-print("hello")
+print("llo")
+
