@@ -12,6 +12,10 @@ class Amir:
 my = Amir('karim', 'ahmadi', 19, 'tehran')
 my.run()
 
+class Too(Amir):
+    def __init__(self, fname, lname, age, city):
+        super
+
 x = 10
 y = 0
 while True:
