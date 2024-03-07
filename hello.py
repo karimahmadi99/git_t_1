@@ -23,5 +23,5 @@ while True:
         print("hello")
 
 
-print("llo")
+print("my name amir ")
 
