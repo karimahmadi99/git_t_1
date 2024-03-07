@@ -21,3 +21,9 @@ while True:
         break
     if y == 4:
         print("hello")
+
+
+print("hello")
+print("hello")
+print("hello")
+print("hello")
